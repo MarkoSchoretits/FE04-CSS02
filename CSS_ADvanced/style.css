@@ -1,0 +1,35 @@
+nav {
+
+    position: fixed;
+    width: 800px;
+
+}
+
+nav a {
+    width: 180px;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+
+
+}
+
+
+#logo {
+    height: 50px;
+}
+
+.hero {
+    width: 100%;
+
+}
+
+.hero img {
+    width: 100%;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: burlywood;
+}
